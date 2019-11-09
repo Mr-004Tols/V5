@@ -4,9 +4,9 @@ print ("\033[1;32mSilahkan Masukkan Nama Admin& Password Admin")
 
 print ("\033[1;32atau silahkan Hubungi HG04 ")
 
-username = 'Mr_Hunters'      
+username = 'Mr_004'      
 
-password = 'Lagi galau'
+password = 'Dia Ganteng'
 
 
 
