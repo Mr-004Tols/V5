@@ -3,6 +3,7 @@
 #DiRecodeGakBakalJadiinLuMastah
 #DiGantiAuthotGakBakalJadiinLuMaster
 #MikirMakeOtakGblk
+clear
 python2 meizu.py
 clear
 blue='\033[34;1m'
